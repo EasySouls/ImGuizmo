@@ -4,3 +4,11 @@ build/
 example/x64/
 example/x86/
 example/imgui.ini
+
+bin/
+bin-int/
+*.lib
+*.dll
+*.tlog
+*.vcxproj.filters
+*.vcxproj
